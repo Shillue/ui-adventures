@@ -39,34 +39,40 @@ Os projetos são cadastrados em um arquivo JavaScript e os cards são criados di
 
 ## 📁 Estrutura
 
-📦 ui-adventures
-├── 📂 assets
-├── 📂 js
-│   ├── 📂 componentes
-│   │   ├── createProject.js
-│   │   ├── projectData.js
-│   │   ├── projects.js
-│   │   └── theme.js
-│   └── main.js
-├── 📂 styles
-│   ├── style.css
-│   └── responsive.css
-├── index.html
-└── README.md
+📦 ui-adventures   
+├── 📂 assets   
+│   ├── icones     
+│   └── images    
+├── 📂 js    
+│   ├── 📂 componentes    
+│   │   ├── createProject.js    
+│   │   ├── projectData.js    
+│   │   ├── projects.js    
+│   │   └── theme.js   
+│   └── main.js   
+├── 📂 styles   
+│   ├── style.css   
+│   └── responsive.css   
+├── index.html   
+└── README.md   
 
 ## 🌟 Projetos
 
 Atualmente, o portfólio apresenta:
 
-✈️ [Travel Landing Page](https://shillue.github.io/travel-landing-page/)
-🥦 [Organic Food Landing Page](https://shillue.github.io/organic-food-landing-page/)
-⚡ [CasaVolt Landing Page](https://shillue.github.io/casavolt-landing-page/)
+✈️ [Travel Landing Page](https://shillue.github.io/travel-landing-page/)     
+🥦 [Organic Food Landing Page](https://shillue.github.io/organic-food-landing-page/)     
+⚡ [CasaVolt Landing Page](https://shillue.github.io/casavolt-landing-page/)      
 
 ## 🚀 Projeto Online
 
 [UI Adventures]()
 
 ## 🖼️ Pré-visualização
+<div style="display: flex; gap: 10px; flex-wrap: nowrap;">
+<img width="300" height="300" alt="Captura de tela 2026-08-23 100456" title="Teme Claro" src="https://github.com/user-attachments/assets/fc994fb6-cc4c-4835-b3f4-073268354d21" />
+<img width="300" height="300" alt="Captura de tela 2026-08-23 100443" title="Teme Escuro" src="https://github.com/user-attachments/assets/db8fafd9-d6df-4736-ba1a-675d41952898" />
+</div>
 
 ## 👨‍💻 Autor
 
