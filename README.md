@@ -70,8 +70,9 @@ Atualmente, o portfólio apresenta:
 
 ## 🖼️ Pré-visualização
 <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
-<img width="300" height="300" alt="Captura de tela 2026-08-23 100456" title="Teme Claro" src="https://github.com/user-attachments/assets/fc994fb6-cc4c-4835-b3f4-073268354d21" />
-<img width="300" height="300" alt="Captura de tela 2026-08-23 100443" title="Teme Escuro" src="https://github.com/user-attachments/assets/db8fafd9-d6df-4736-ba1a-675d41952898" />
+<img width="250" height="300" alt="Captura de tela 2026-08-23 101933" title="Teme Escuro" src="https://github.com/user-attachments/assets/ecfe10c5-5b7d-4f03-8b06-c2b209b19c0d" />
+<img width="250" height="300" alt="Captura de tela 2026-08-23 102042" title="Teme Claro" src="https://github.com/user-attachments/assets/8ac46b60-dae6-4691-842f-606dcf735737" />
+
 </div>
 
 ## 👨‍💻 Autor
