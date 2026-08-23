@@ -37,8 +37,8 @@ body[data-theme="light"] {
   --background: #f4e2df;
   --background-main: #e8d2d0;
 
-  --card-background: #f1d7d8;
-  --card-hover: #e8c2d0;
+  --card-background: #facecf;
+  --card-hover: #f7c4c6;
 
   --background-menu: rgba(169, 79, 114, 0.08);
   --background-hover-menu: rgba(169, 79, 114, 0.1);
