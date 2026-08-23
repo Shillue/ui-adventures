@@ -66,7 +66,7 @@ Atualmente, o portfólio apresenta:
 
 ## 🚀 Projeto Online
 
-[UI Adventures]()
+[UI Adventures](https://shillue.github.io/ui-adventures/)
 
 ## 🖼️ Pré-visualização
 <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
