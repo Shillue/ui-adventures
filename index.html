@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Style -->
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/responsive.css" />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Nunito:wght@300;600;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/icones/icon.png"
+    />
+    <title>UI Adventures</title>
+  </head>
+  <body data-theme="dark">
+    <header class="header">
+      <div class="header__logo">
+        <div class="logo">
+          <img src="./assets/icones/avatar__logo.png" alt="Logo do Avatar" />
+        </div>
+        <div class="header__text">
+          <h1>🌸 UI Adventures 🌸</h1>
+          <p>✨ Explorando interfaces ✨</p>
+        </div>
+      </div>
+
+      <div class="header__menu">
+        <nav class="menu__main" aria-label="Menu principal">
+          <ul>
+            <li><a href="#inicio">Início</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#contato">Contato</a></li>
+          </ul>
+        </nav>
+
+        <button
+          class="theme"
+          id="theme-toggle"
+          type="button"
+          title="Ativar tema claro"
+          aria-label="Alternar Tema"
+        >
+          <i class="fa-solid fa-sun" id="theme-icon" aria-hidden="true"></i>
+        </button>
+      </div>
+    </header>
+
+    <main class="container" id="inicio">
+      <section class="cards">
+        <ul class="cards__list">
+          <!-- Projetos -->
+        </ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer__dados">
+        <section class="sobre" id="sobre">
+          <h3>Sobre</h3>
+          <p>
+            O UI Adventures é um espaço onde compartilho algumas das landing
+            pages que crio durante minha jornada no desenvolvimento web. Cada
+            projeto representa uma oportunidade para experimentar novos estilos,
+            ideias e formas de criar interfaces.
+          </p>
+        </section>
+        <section class="contato" id="contato">
+          <h3>Redes Sociais</h3>
+          <a href="https://github.com/Shillue" target="_blank" rel="noopener noreferrer">Github</a>
+          <a href="https://www.linkedin.com/in/shillu%C3%AA/" target="_blank" rel="noopener noreferrer"
+            >Linkedin</a
+          >
+        </section>
+      </div>
+
+      <section class="credencias">
+        <p>🌸 UI Adventures · Projetos e experimentos de desenvolvimento web 🌸</p>
+
+        <p>
+          Criado por
+          <a
+            href="https://www.linkedin.com/in/shillu%C3%AA/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Shilluê
+          </a>
+        </p>
+      </section>
+    </footer>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

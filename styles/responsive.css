@@ -1,0 +1,85 @@
+/* ============================= */
+/* <= 500px */
+/* ============================= */
+@media (max-width: 500px) {
+  /* HEADER quebra em duas linhas */
+  .header {
+    padding: 0.2rem 0.2rem 1rem;
+  }
+
+  .header .header__logo{
+  padding: 0.2rem;
+}
+
+  .header .header__logo .header__text h1 {
+    font-size: 1.5rem;
+  }
+ .header .header__logo .header__text p {
+    margin-top: 5px;
+    font-size: 0.9rem;
+  }
+
+  /* Menu */
+.header .header__menu{
+  gap: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--background-menu);
+  border-radius: 10px;
+  box-shadow: 0 5px 10px var(--shadow);
+}
+
+.header .header__menu .menu__main ul{
+  gap: 0.7rem;
+}
+
+.header .header__menu .menu__main ul li a{
+  font-size: 0.75rem;
+}
+
+/* Footer */
+.footer {
+  padding: 10px;
+}
+
+
+.footer .footer__dados .sobre{
+  width: 100%;
+}
+
+.footer .footer__dados .sobre h3,
+.footer .footer__dados .contato h3{
+  font-size: 1rem;
+}
+
+.footer .footer__dados .sobre p{
+   font-size: 0.8rem;
+}
+
+
+.footer .footer__dados .contato a{
+   font-size: 0.8rem;
+   margin-bottom: 0.2rem;
+}
+
+}
+
+/* ============================= */
+/* <= 400px */
+/* ============================= */
+@media (max-width: 400px) {
+ .header .header__logo .header__text h1 {
+    font-size: 1.4rem;
+  }
+ .header .header__logo .header__text p {
+    font-size: 0.8rem;
+  }
+  /* Menu */
+.header .header__menu{
+  flex-wrap: wrap;
+}
+
+.header .header__menu .menu__main ul{
+  flex-wrap: wrap;
+}
+
+}
