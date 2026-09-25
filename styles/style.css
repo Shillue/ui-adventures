@@ -94,6 +94,10 @@ img{
   max-width: 100%;
 }
 
+h1, h2, h3, p{
+  cursor: default;
+}
+
 .header {
   display: flex;
   align-items: center;
