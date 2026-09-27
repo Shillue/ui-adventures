@@ -2,7 +2,7 @@ export const projects = [
   {
     image: {
       src: "./assets/images/Pré-visualização travel-landing-page.png",
-      alt: "Preview do projeto Travel Landing Page",
+      alt: "Preview do projeto Travel",
     },
 
     title: "Travel",
@@ -13,7 +13,7 @@ export const projects = [
   {
     image: {
       src: "./assets/images/Pré-visualização organic-food-landing-page.png",
-      alt: "Preview do projeto Organic Food Landing Page",
+      alt: "Preview do projeto Organic Food",
     },
 
     title: "Organic Food",
@@ -24,7 +24,7 @@ export const projects = [
   {
     image: {
       src: "./assets/images/Pré-visualização casavolt-landing-page.png",
-      alt: "Preview do projeto CasaVolt Landing Page",
+      alt: "Preview do projeto CasaVolt",
     },
 
     title: "CasaVolt",
@@ -35,11 +35,11 @@ export const projects = [
   {
     image: {
       src: "./assets/images/Pré-visualização cuteCake.png",
-      alt: "Preview do projeto CuteCake Studio Landing Page",
+      alt: "Preview do projeto CuteCake Studio",
     },
 
     title: "CuteCake Studio",
-    description: "Landing page para uma confeitaria fictícia de bolos",
+    description: "Landing page de uma confeitaria fictícia com categorias de bolos",
     link: "https://shillue.github.io/cutecake-studio-landing-page/",
   },
 ];

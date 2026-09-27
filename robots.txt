@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shillue.github.io/ui-adventures/sitemap.xml
