@@ -63,6 +63,7 @@ Atualmente, o portfólio apresenta:
 ✈️ [Travel Landing Page](https://shillue.github.io/travel-landing-page/)     
 🥦 [Organic Food Landing Page](https://shillue.github.io/organic-food-landing-page/)     
 ⚡ [CasaVolt Landing Page](https://shillue.github.io/casavolt-landing-page/)      
+🍰 [CuteCake Studio](https://shillue.github.io/cutecake-studio-landing-page/)
 
 ## 🚀 Projeto Online
 
